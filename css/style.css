@@ -3,6 +3,31 @@ h1{
 	letter-spacing:5px;
 }
 
+img#dancingpig{
+	width:320px;
+	height:320px;
+}
+
+img#panda{
+	width:620px;
+	height:320px;
+}
+
+img#mario{
+	width:420px;
+	height:320px;
+}
+
+img#leftstrawberry{
+	float:left;
+	height:150px;
+}
+
+img#rightstrawberry{
+	float:right;
+	height:150px;
+}
+
 p em{
 	font-weight:bold;
 	color:green;
